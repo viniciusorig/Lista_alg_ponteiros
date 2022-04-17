@@ -42,5 +42,4 @@ int main(){
 
     ray((ptrcoo)->x0, (ptrcoo)->y0, (ptrcoo)->x1, (ptrcoo)->y1, (ptrcoo)->r);
     equation((ptrcoo)->x0, (ptrcoo)->y0, (ptrcoo)->x1, (ptrcoo)->y1);
-
 }
